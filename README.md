@@ -57,7 +57,7 @@ software
 ## software
 
 - [x] Installers, app stores, app updates
-- [x] Updating MacOS directly from Apple （requires a few steps`not selected：Config > Kernel > BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]` ； `Add Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args > revpatch=sbvmm`）
+- [x] Updating MacOS directly from Apple （requires a few steps`not selected：Config > Kernel > BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]` ； `Add Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args - revpatch=sbvmm`）
 - [x] APFS, SSD pruning
 - [x] iMessage, iCloud, Siri, iTunes, other services
 - [x] Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT`**
