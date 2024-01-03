@@ -65,7 +65,7 @@ software
 ## software
 
 - [x] Installers, app stores, app updates
-- [x] 直接从 Apple 更新 MacOS       (Updating MacOS directly from Apple [requires a few steps`not selected：Config-Kernel-BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`，`AMD Radeon RX 6900 XT/Other driver-free graphics cards/Ready out of the box`
+- [x] 直接从 Apple 更新 MacOS       (Updating MacOS directly from Apple [requires a few steps`not selected：Config-Kernel-BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`；`Add Config-NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82-boot-args-revpatch=sbvmm`
 - [x] APFS、SSD 修剪
 - [x] iMessage、iCloud、Siri、iTunes、其他服务
 - [ ] 切换、连续性、通用剪贴板：**内置`Intel AX200`**
