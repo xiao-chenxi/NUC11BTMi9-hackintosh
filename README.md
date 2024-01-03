@@ -39,8 +39,6 @@
   - Secure Boot > `Secure Boot: Disabled`
   - boot Priority > `Fast Boot: Unchecked`
 
-## Install
-
 ## hardware
 
 - ❌  GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
