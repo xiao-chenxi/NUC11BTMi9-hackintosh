@@ -46,7 +46,7 @@
 - [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
 - [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
 - [x] Ethernet
-- [x] Audio
+- [x] USB Audio
 - [x] USB A port
 - [x] NVMe SSD
 - [x] wireless network
