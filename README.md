@@ -48,7 +48,6 @@
 - [x] Ethernet
 - [x] Audio
 - [x] USB A port
-- [x] SD card slot
 - [x] NVMe SSD
 - [x] wireless network
 - [x] Bluetooth
@@ -73,6 +72,7 @@ software
 ## Hardware not tested⚠️
 
 - Audio (microphone, Toslink)
+- SD card slot
 - DP audio
 - multiple monitors
 - Thunderbolt 4 port
