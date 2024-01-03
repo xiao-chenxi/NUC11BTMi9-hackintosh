@@ -104,6 +104,9 @@ SD card slot
 Audio (microphone, Toslink)
 
 Video encoder/decoder hardware
+
 multiple monitors
+
 Thunderbolt 4 port
+
 Secure boot (with high security)
