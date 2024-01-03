@@ -26,20 +26,35 @@ harddisk2：KIOXIA RC20
 
 
 Change log
+
 1-3-2024
+
 first submission
+
 bios settings
+
 BIOS Version：DBTGL579
+
 Restore BIOS settings：F9 - Optimal Defaults
+
 Configuration
+
 Advanced
+
 PCIE Resizable BAR Support: Disabled（Very important）
+
 Video > Primary Display: PEG Slot
+
 Security
+
 Security Features > Intel VT for Directed I/O(VT-d)
+
 Boot
+
 Secure Boot > Secure Boot: Disabled
+
 boot Priority > Fast Boot: Unchecked
+
 
 安装
 硬件
