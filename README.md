@@ -4,15 +4,26 @@ For NUC11th generation Beast Canyon-NUC11BTMi7/i9, MacOS sonoma
 NUC11BTMi7/i9 OpenCore
 
 电脑配置
+
 processor：Intel® Core™ i9-11900KB Processor (24M Cache, up to 4.90 GHz)
+
 network：Intel i225
+
 Wireless network/Bluetooth：IntelAX210
+
 Audio：USB Audio
+
 graphics card：AMD Radeon RX 6900 XT/Other driver-free graphics cards
+
 Thunderbolt 4：Not tested
+
 Memory：Crucial DDR4 16G 3200MHz*2
+
 harddisk1：KIOXIA RC20
+
 harddisk2：KIOXIA RC20
+
+
 
 Change log
 1-3-2024
