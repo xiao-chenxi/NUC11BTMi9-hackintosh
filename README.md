@@ -1,72 +1,71 @@
-> ⚠️一台近乎完美黑果
+> NUC11BTMi9-hackintool
+For NUC11th generation Beast Canyon-NUC11BTMi7/i9, MacOS sonoma
 
-# sperhmjj NUC9I7QNX OpenCore
+NUC11BTMi7/i9 OpenCore
 
-> 我喜欢 Mac 操作系统，并且愿意为其折腾数月……
+## Computer Configuration
 
-## 电脑配置
+processor：Intel® Core™ i9-11900KB Processor (24M Cache, up to 4.90 GHz)
 
-- 处理器：Intel® Core™ i7-9750H 处理器（6 核，12 MB 高速缓存，2.6 GHz 至 4.50 GHz）
-- 网络： 内置Intel `i210`（下） 内置Intel `i219-LM`（上）
-- 无线网络/蓝牙：Broadcom `BCM94360CS2`🔧 + 内置 Intel`AX200`
-- 音频：内置`Realtek ALC256`
-- 显卡：蓝宝石脉冲`RX 6600`4GB ITX + 内置 Intel `UHD Graphics 630`2048 MB
-- 霹雳口：内置英特尔`JHL7540`
-- 内存：
-- 主硬盘：
-- 第二硬盘：
+network：Intel i225
 
-## 更新日志
+Wireless network/Bluetooth：IntelAX210
 
-- 11-2-2023
-  - 更新 `OpenCore` `v0.9.5`
-  - 支持 `Sonama` 安装使用
-  - 适配 `BCM94360CS2`
-- 11-1-2023
-  - 第一次提交
+Audio：USB Audio
 
-## bios设置
+graphics card：AMD Radeon RX 6900 XT/Other driver-free graphics cards
 
-- BIOS 版本：`QXCFL579`
-- 首先，恢复默认BIOS配置：`F9 - Optimal Defaults`
+Thunderbolt 4
 
-### 配置
+Memory：Crucial DDR4 16G 3200MHz*2
+
+harddisk1：KIOXIA RC20
+
+harddisk2：KIOXIA RC20
+
+## Change log
+
+- 1-3-2024
+  - first submission
+  - renew `OpenCore` `v0.9.7`
+  - support `Sonama` Install and use
+
+## bios settings
+
+- BIOS Version：`DBTGL579`
+- Restore BIOS settings：`F9 - Optimal Defaults`
+
+### Configuration
 
 - Advanced
-  - USB > `Legacy USB Support: Enabled`
+  - Advanced > `PCIE Resizable BAR Support: Disabled（Very important）`
+  - Advanced > Video > `Primary Display: PEG Slot`
 - Security
-  - Security Features > `Intel Platform Trust Technology: Unchecked`
-  - Security Features > `Intel Software Guard Extension (SGX): Disabled`
-  - Security Features > `Thunderbold Security Level: Legacy mode`
+  - Security Features > `Intel VT for Directed I/O(VT-d)：Disabled`
 - Boot
   - Secure Boot > `Secure Boot: Disabled`
   - boot Priority > `Fast Boot: Unchecked`
-  - boot Priority > `Network Boot: Disabled`
-  - boot Priority > `Ethernet1 Boot: Unchecked`
-  - boot Priority > `Ethernet2 Boot: Unchecked`
 
 ## 安装
 
 ## 硬件
 
-- [x] GPU加速：内置`Intel UHD 630`
-- [x] GPU 加速：（`RX 570`开箱即用）
-- [x] 以太网⚡
-- [x] 音频（前面板耳机）
-- [x] 音频（后面板耳机）
-- [x] USB A 端口
-- [x] SD卡插槽
-- [x] NVMe固态硬盘
-- [x] 无线网络⚡
-- [x] 蓝牙⚡
-- [x] USB C 端口
-- [x] Airpods Pro（电池电量/降噪模式开关）
-- [x] CPU 电源管理（使用 Intel Power Gadget 测试）
+- [x] GPU acceleration：内置`Intel UHD Graphics 910`
+- [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards/Ready out of the box`Ready out of the box）
+- [x] Ethernet⚡
+- [x] Audio
+- [x] USB A port
+- [x] SD card slot
+- [x] NVMe SSD
+- [x] wireless network⚡
+- [x] Bluetooth⚡
+- [x] CPU power management (tested with Intel Power Gadget)
+software
 
-## 软件
+## software
 
-- [x] 安装程序、应用程序商店、应用程序更新
-- [x] 直接从 Apple 更新 MacOS
+- [x] Installers, app stores, app updates
+- [x] 直接从 Apple 更新 MacOS       (Updating MacOS directly from Apple [requires a few steps`not selected：Config-Kernel-BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`，`AMD Radeon RX 6900 XT/Other driver-free graphics cards/Ready out of the box`
 - [x] APFS、SSD 修剪
 - [x] iMessage、iCloud、Siri、iTunes、其他服务
 - [ ] 切换、连续性、通用剪贴板：**内置`Intel AX200`**
