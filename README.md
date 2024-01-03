@@ -15,7 +15,7 @@ Audio：USB Audio
 
 graphics card：AMD Radeon RX 6900 XT/Other driver-free graphics cards
 
-Thunderbolt 4：Not tested
+Thunderbolt 4
 
 Memory：Crucial DDR4 16G 3200MHz*2
 
