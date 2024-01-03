@@ -42,7 +42,7 @@ NUC11BTMi7/i9 OpenCore
 
 ## 硬件
 
-- [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive
+- [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
 - [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
 - [x] Ethernet
 - [x] Audio
@@ -57,7 +57,7 @@ software
 ## software
 
 - [x] Installers, app stores, app updates
-- [x] Updating MacOS directly from Apple （requires a few steps，You can restore the settings after the update is completed）
+- [x] Updating MacOS directly from Apple （requires a few steps，You can restore the settings after the update is completed）⚠️
 
       `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`
 
@@ -69,7 +69,7 @@ software
 - [x] sleep mode
 - [x] Shut down/sleep/wake up
 
-## Hardware not tested
+## Hardware not tested⚠️
 
 - Audio (microphone, Toslink)
 - DP audio
