@@ -58,7 +58,7 @@ software
 ## software
 
 - [x] Installers, app stores, app updates
-- [x] Updating MacOS directly from Apple （requires a few steps，You can restore the settings after the update is completed）⚠️
+- [x] Updating MacOS directly from Apple （Incremental package upgrade requires setting the following two options，Otherwise you will not be able to receive the new version，Wait for the update to complete before restoring settings）⚠️
 
       `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`
 
