@@ -38,9 +38,9 @@ NUC11BTMi7/i9 OpenCore
   - Secure Boot > `Secure Boot: Disabled`
   - boot Priority > `Fast Boot: Unchecked`
 
-## 安装
+## Install
 
-## 硬件
+## hardware
 
 - [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
 - [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
