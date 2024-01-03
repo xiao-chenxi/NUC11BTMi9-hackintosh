@@ -51,7 +51,7 @@ harddisk2：KIOXIA RC20
 ## 硬件
 
 - [x] GPU acceleration：内置`Intel UHD Graphics 910`
-- [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards/Ready out of the box`Ready out of the box）
+- [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
 - [x] Ethernet⚡
 - [x] Audio
 - [x] USB A port
