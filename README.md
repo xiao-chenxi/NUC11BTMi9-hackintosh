@@ -71,9 +71,6 @@ software
 
 ## Hardware not tested⚠️
 
-- Audio (microphone, Toslink)
 - SD card slot
-- DP audio
-- multiple monitors
 - Thunderbolt 4 port
 - Secure boot (with high security)
