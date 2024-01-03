@@ -1,5 +1,5 @@
 > NUC11BTMi9-hackintool
-For NUC11th generation Beast Canyon-NUC11BTMi7/i9, MacOS sonoma
+## For NUC11th generation Beast Canyon-NUC11BTMi7/i9,Support installation MacOS sonoma
 
 NUC11BTMi7/i9 OpenCore
 
@@ -42,15 +42,15 @@ NUC11BTMi7/i9 OpenCore
 
 ## 硬件
 
-- [x] GPU acceleration：内置`Intel UHD Graphics 910`
+- [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive
 - [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
-- [x] Ethernet⚡
+- [x] Ethernet
 - [x] Audio
 - [x] USB A port
 - [x] SD card slot
 - [x] NVMe SSD
-- [x] wireless network⚡
-- [x] Bluetooth⚡
+- [x] wireless network
+- [x] Bluetooth
 - [x] CPU power management (tested with Intel Power Gadget)
 software
 
@@ -60,11 +60,10 @@ software
 - [x] Updating MacOS directly from Apple （requires a few steps`not selected：Config-Kernel-BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]` ； `Add Config-NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82-boot-args-revpatch=sbvmm`）
 - [x] APFS, SSD pruning
 - [x] iMessage, iCloud, Siri, iTunes, other services
-- [x] 金属、GPU 加速应用：**Sapphire Pulse`RX 570`**
+- [x] Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT`**
 - [x] time Machine
 - [x] sleep mode
 - [x] Shut down/sleep/wake up
-- [x] Schedule startup or wakeup
 
 ## Hardware not tested
 
