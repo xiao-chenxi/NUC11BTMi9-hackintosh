@@ -6,8 +6,8 @@ NUC11BTMi7/i9 OpenCore
 ## Computer Configuration
 
 - processor：Intel® Core™ i9-11900KB Processor (24M Cache, up to 4.90 GHz)
-- network：Intel i225
-- Wireless network/Bluetooth：IntelAX210
+- network：Intel® Ethernet Controller i225-LM
+- Wireless network/Bluetooth：Intel® Wi-Fi 6E AX210
 - Audio：USB Audio
 - graphics card：AMD Radeon RX 6900 XT/Other driver-free graphics cards
 - Thunderbolt 4
