@@ -10,7 +10,7 @@ NUC11BTMi7/i9 OpenCore
 - Wireless network/Bluetooth：Intel® Wi-Fi 6E AX210
 - Audio：USB Audio
 - graphics card：AMD Radeon RX 6900 XT/Other driver-free graphics cards
-- Thunderbolt 4
+- Thunderbolt：2x Thunderbolt™ 4
 - Memory：Crucial DDR4 16G 3200MHz*2
 - harddisk1：KIOXIA RC20
 - harddisk2：KIOXIA RC20
