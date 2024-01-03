@@ -13,8 +13,8 @@
 - graphics card：AMD Radeon RX 6900 XT
 - Thunderbolt：2x Thunderbolt™ 4
 - Memory：Crucial DDR4 16G 3200MHz*2
-- harddisk1：KIOXIA RC20
-- harddisk2：KIOXIA RC20
+- harddisk1：KIOXIA RC20 1T
+- harddisk2：KIOXIA RC20 1T
   
 ## Change log
 
