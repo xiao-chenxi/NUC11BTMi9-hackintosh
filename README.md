@@ -59,7 +59,7 @@ software
 - ✅ Installers, app stores, app updates
 - ✅ Updating MacOS directly from Apple （Incremental package upgrade requires setting the following two options，Otherwise you will not be able to receive the new version，Wait for the update to complete before restoring settings）⚠️
 
-      `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`
+      `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext`
 
       `Add：Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args - revpatch=sbvmm`
 - ✅ APFS, SSD pruning
