@@ -1,7 +1,7 @@
 > NUC11BTMi9-hackintool
 ## For NUC11th generation Beast Canyon-NUC11BTMi7/i9,Support installation MacOS sonoma
+![xx1](https://github.com/xl120022/NUC11BTMi9-hackintool/assets/63736726/1ab9d1cf-0850-468a-b0de-d1c3641e7951)
 
-NUC11BTMi7/i9 OpenCore
 
 ## Computer Configuration
 
