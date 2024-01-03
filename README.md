@@ -25,6 +25,8 @@ harddisk2：KIOXIA RC20
 
 
 
+
+
 Change log
 
 1-3-2024
@@ -96,8 +98,11 @@ software
 
 
 Hardware not tested
+
 SD card slot
+
 Audio (microphone, Toslink)
+
 Video encoder/decoder hardware
 multiple monitors
 Thunderbolt 4 port
