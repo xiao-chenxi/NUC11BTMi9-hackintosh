@@ -43,31 +43,31 @@
 
 ## hardware
 
-- [x] GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
-- [x] GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
-- [x] Ethernet
-- [x] USB Audio
-- [x] USB A port
-- [x] NVMe SSD
-- [x] wireless network
-- [x] Bluetooth
-- [x] CPU power management (tested with Intel Power Gadget)
+- ❌  GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
+- ✅ GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
+- ✅ Ethernet
+- ✅ USB Audio
+- ✅ USB A port
+- ✅ NVMe SSD
+- ✅ wireless network
+- ✅ Bluetooth
+- ✅ CPU power management (tested with Intel Power Gadget)
 software
 
 ## software
 
-- [x] Installers, app stores, app updates
-- [x] Updating MacOS directly from Apple （Incremental package upgrade requires setting the following two options，Otherwise you will not be able to receive the new version，Wait for the update to complete before restoring settings）⚠️
+- ✅ Installers, app stores, app updates
+- ✅ Updating MacOS directly from Apple （Incremental package upgrade requires setting the following two options，Otherwise you will not be able to receive the new version，Wait for the update to complete before restoring settings）⚠️
 
       `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext]`
 
       `Add：Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args - revpatch=sbvmm`
-- [x] APFS, SSD pruning
-- [x] iMessage, iCloud, Siri, iTunes, other services
-- [x] Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT`**
-- [x] time Machine
-- [x] sleep mode
-- [x] Shut down/sleep/wake up
+- ✅ APFS, SSD pruning
+- ✅ iMessage, iCloud, Siri, iTunes, other services
+- ✅ Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT`**
+- ✅ time Machine
+- ✅ sleep mode
+- ✅ Shut down/sleep/wake up
 
 ## Hardware not tested⚠️
 
