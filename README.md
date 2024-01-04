@@ -49,7 +49,6 @@
 - ✅ NVMe SSD
 - ✅ wireless network
 - ✅ Bluetooth
-- ✅ CPU power management (tested with Intel Power Gadget)
 software
 
 ## software
