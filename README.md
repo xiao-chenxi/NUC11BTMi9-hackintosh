@@ -61,7 +61,7 @@ software
       `Add：Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args - revpatch=sbvmm`
 - ✅ APFS, SSD pruning
 - ✅ iMessage, iCloud, Siri, iTunes, other services
-- ✅ Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT`**
+- ✅ Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT**
 - ✅ time Machine
 - ✅ sleep mode
 - ✅ Shut down/sleep/wake up
