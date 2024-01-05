@@ -1,4 +1,4 @@
-> NUC11BTMi9-hackintool
+> NUC11BTMi9-hackintosh
 ## For NUC11th generation -NUC11BTMi7/i9,Support installation MacOS sonoma
 ![xx1](https://github.com/xl120022/NUC11BTMi9-hackintool/assets/63736726/1ab9d1cf-0850-468a-b0de-d1c3641e7951)
 ![xx2](https://github.com/xl120022/NUC11BTMi9-hackintool/assets/63736726/2d3c095c-36dc-46d8-beae-49cb2b816aed)
