@@ -20,7 +20,14 @@
   - first submission
   - renew `OpenCore` `v0.9.7`
   - support `Sonama` Install and use
-
+  
+- 3-20-2024
+  - Second submission
+  - renew `OpenCore` `v0.9.9`
+  - Added XHCI-unsupported.kext for USB support for sonoma 14.4：`Kelnel > Add > XHCI-unsupported.kext ：true`
+  - Updated AirportItlwm.kext for WI-FI support for sonoma 14.4
+  - Only Sonama 14.4 or later versions are supported
+  
 ## bios settings
 
 - BIOS Version：`DBTGL579`
