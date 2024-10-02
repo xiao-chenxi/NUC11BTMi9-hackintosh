@@ -27,6 +27,12 @@
   - Added XHCI-unsupported.kext for USB support for sonoma 14.4：`Kelnel > Add > XHCI-unsupported.kext ：true`
   - Updated AirportItlwm.kext for WI-FI support for sonoma 14.4
   - Only Sonama 14.4 or later versions are supported
+  - 
+- 10-2-2024
+  - Third submission
+  - renew `OpenCore` `v1.0.1`
+  - support `Sequoia 15.0` Install and use
+  - `Sonama 14.4-14.X` please download the V1.1 version，The final upgrade has been done, sonoma 14.4-14.X will no longer be maintained
   
 ## bios settings
 
@@ -59,17 +65,17 @@ software
 ## software
 
 - ✅ Installers, app stores, app updates
-- ✅ Updating MacOS directly from Apple （Incremental package upgrade requires setting the following two options，Otherwise you will not be able to receive the new version，Wait for the update to complete before restoring settings）⚠️
-
-      `not selected：Config > Kernel - BlueToolFixup.kext / IntelBluetoothFirmware.kext / IntelBTPatcher.kext`
-
-      `Add：Config > NVRAM-7C436110-AB2A-4BBB-A880-FE41995C9F82 > boot-args - revpatch=sbvmm`
+- ✅ Updating MacOS directly from Apple
 - ✅ APFS, SSD pruning
 - ✅ iMessage, iCloud, Siri, iTunes, other services
 - ✅ Metal, GPU accelerated applications：**AMD Radeon RX 6900 XT**
 - ✅ time Machine
 - ✅ sleep mode
 - ✅ Shut down/sleep/wake up
+
+## Known issues⚠️
+- The processor model of the About This Machine page cannot be changed and cannot be processed at the moment.
+- boot-args > wegnoigpu does not currently work,UHD750 needs to be turned off, otherwise the display will not light up when waking up from sleep.
 
 ## Hardware not tested⚠️
 
