@@ -1,5 +1,5 @@
 > NUC11BTMi9-hackintosh
-## Applicable NUC11BTMi7/i9,Support installation MacOS Sequoia
+## Applicable to NUC11BTMi7/i9,Support installation MacOS Sequoia
 
 
 ## Computer Configuration
