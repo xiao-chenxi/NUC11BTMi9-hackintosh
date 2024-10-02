@@ -22,7 +22,7 @@
   - Third submission
   - renew `OpenCore` `v1.0.1`
   - support `Sequoia 15.0` Install and use
-  - Supports Sequoia 15.0 WI-FI and Bluetooth，You need to use OpenCore-Legacy-Patcher to patch the network card（https://github.com/dortania/OpenCore-Legacy-Patcher）
+  - Supports Sequoia 15.0 WI-FI and Bluetooth，You need to use OpenCore-Legacy-Patcher to patch the network card。https://github.com/dortania/OpenCore-Legacy-Patcher
   - `Sonama 14.4-14.X` please download the V1.1 version，The final upgrade has been done, sonoma 14.4-14.X will no longer be maintained
 
 - 3-20-2024
