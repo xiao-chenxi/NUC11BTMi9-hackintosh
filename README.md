@@ -1,5 +1,5 @@
 > NUC11BTMi9-hackintosh
-## For NUC11th generation -NUC11BTMi7/i9,Support installation MacOS sonoma
+## For NUC11th generation -NUC11BTMi7/i9,Support installation MacOS Sequoia
 
 
 ## Computer Configuration
@@ -11,8 +11,10 @@
 - graphics card：AMD Radeon RX 6900 XT
 - Thunderbolt：2x Thunderbolt™ 4
 - Memory：Crucial DDR4 16G 3200MHz*2
-- harddisk1：KIOXIA RC20 1T
-- harddisk2：KIOXIA RC20 1T
+- harddisk1：BIWIN NV7400 2T
+- harddisk2：WD SN550 2T
+- harddisk3：KIOXIA RC20 1T
+- harddisk4：KIOXIA RC20 1T
   
 ## Change log
 
