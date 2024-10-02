@@ -19,7 +19,8 @@
 ## Change log
 
 - 10-2-2024
-  - Third submission
+
+  Third submission
   - renew `OpenCore` `v1.0.1`
   - support `Sequoia 15.0` Install and use
   - Supports Sequoia 15.0 WI-FI and Bluetooth, the driver has been added, you only need to use OpenCore-Legacy-Patcher to patch the network card。https://github.com/dortania/OpenCore-Legacy-Patcher
@@ -27,7 +28,8 @@
   - `sonoma 14.4-14.X` will no longer be maintained
 
 - 3-20-2024
-  - Second submission
+  
+  Second submission
   - renew `OpenCore` `v0.9.9`
   - Added XHCI-unsupported.kext for USB support for sonoma 14.4：`Kelnel > Add > XHCI-unsupported.kext ：true`
   - Updated AirportItlwm.kext for WI-FI support for sonoma 14.4
@@ -36,7 +38,8 @@
 
 
 - 1-3-2024
-  - first submission
+ 
+  first submission
   - renew `OpenCore` `v0.9.7`
   - support `Sonama` Install and use
   
