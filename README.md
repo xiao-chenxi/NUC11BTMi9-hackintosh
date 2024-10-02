@@ -12,7 +12,7 @@
 - Thunderbolt：2x Thunderbolt™ 4
 - Memory：Crucial DDR4 16G 3200MHz*2
 - harddisk1：BIWIN NV7400 2T
-- harddisk2：Western Digital SN550 2T
+- harddisk2：WD SN550 2T
 - harddisk3：KIOXIA RC20 1T
 - harddisk4：KIOXIA RC20 1T
   
