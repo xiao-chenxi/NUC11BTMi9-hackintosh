@@ -90,8 +90,8 @@ software
 - Secure boot (with high security)
 
 ## Display of results
-![xx1](https://github.com/xl120022/NUC11BTMi9-hackintool/assets/63736726/1ab9d1cf-0850-468a-b0de-d1c3641e7951)
-![xx2](https://github.com/xl120022/NUC11BTMi9-hackintool/assets/63736726/2d3c095c-36dc-46d8-beae-49cb2b816aed)
+![截屏2024-10-02 21 21 22](https://github.com/user-attachments/assets/e4ff67f8-270f-421c-a645-8e535332bd3d)
+![截屏2024-10-02 21 23 03](https://github.com/user-attachments/assets/62a03929-965c-4065-9c10-a4cef145d5d6)
 ![xx3](https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh/assets/63736726/799cfacb-788d-439b-9e5e-b6121bd0fa14)
 ![xx4](https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh/assets/63736726/854a959f-b337-44d7-bae5-2feb61cf616c)
 ![xx5](https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh/assets/63736726/fb5ac0c0-bc91-48cd-871d-4d628f77e8bf)
