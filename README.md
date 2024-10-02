@@ -23,7 +23,7 @@
   - renew `OpenCore` `v1.0.1`
   - support `Sequoia 15.0` Install and use
   - Supports Sequoia 15.0 WI-FI and Bluetooth，You need to use OpenCore-Legacy-Patcher to patch the network card。https://github.com/dortania/OpenCore-Legacy-Patcher
-  - `Sonama 14.4-14.X` please download the NUC11BTMi9-hackintosh-Sonama-V1.2.zipversion，The final upgrade has been done, `sonoma 14.4-14.X` will no longer be maintained
+  - `Sonama 14.4-14.X` please download the `NUC11BTMi9-hackintosh-Sonama-V1.2.zip，The final upgrade has been done, `sonoma 14.4-14.X` will no longer be maintained
 
 - 3-20-2024
   - Second submission
