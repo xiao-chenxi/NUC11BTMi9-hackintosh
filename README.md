@@ -85,7 +85,7 @@ software
 
 ## Known issues⚠️
 - The processor model of the About This Machine page cannot be changed and cannot be processed at the moment.
-- boot-args > wegnoigpu does not currently work,UHD750 needs to be turned off, otherwise the display will not light up when waking up from sleep.(Advanced > Video > `Primary Display: PEG Slot / Internal Graphics: Auto`)
+- `boot-args > wegnoigpu` does not currently work,UHD750 needs to be turned off, otherwise the display will not light up when waking up from sleep.(Advanced > Video > `Primary Display: PEG Slot / Internal Graphics: Auto`)
 
 ## Hardware not tested⚠️
 
