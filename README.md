@@ -44,6 +44,7 @@
 - Advanced
   - Advanced > `PCIE Resizable BAR Support: Disabled（Very important）`
   - Advanced > Video > `Primary Display: PEG Slot`
+  - Advanced > Video > `Internal Graphics: Auto`
 - Security
   - Security Features > `Intel VT for Directed I/O(VT-d)：Disabled`
 - Boot
@@ -52,7 +53,7 @@
 
 ## hardware
 
-- ❌  GPU acceleration：`Intel UHD Graphics 910`Unable to drive⚠️
+- ❌  GPU acceleration：`Intel UHD Graphics 750`Unable to drive⚠️
 - ✅ GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
 - ✅ Ethernet
 - ✅ USB Audio
@@ -75,7 +76,7 @@ software
 
 ## Known issues⚠️
 - The processor model of the About This Machine page cannot be changed and cannot be processed at the moment.
-- boot-args > wegnoigpu does not currently work,UHD750 needs to be turned off, otherwise the display will not light up when waking up from sleep.
+- boot-args > wegnoigpu does not currently work,UHD750 needs to be turned off, otherwise the display will not light up when waking up from sleep.(Advanced > Video > `Primary Display: PEG Slot / Internal Graphics: Auto`)
 
 ## Hardware not tested⚠️
 
