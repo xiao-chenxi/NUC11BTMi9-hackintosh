@@ -85,7 +85,6 @@ software
 
 ## Hardware not tested⚠️
 
-- SD card slot
 - Thunderbolt 4 port
 - Secure boot (with high security)
 
