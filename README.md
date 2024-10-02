@@ -54,7 +54,7 @@
 
 ## hardware
 
-- ❌  GPU acceleration：`Intel UHD Graphics 750`Unable to drive⚠️
+- ❌  GPU acceleration：`Intel UHD Graphics 750`Unable to drive⚠️（Disable it in BIOS）
 - ✅ GPU acceleration：（`AMD Radeon RX 6900 XT/Other driver-free graphics cards`Ready out of the box）
 - ✅ Ethernet
 - ✅ USB Audio
