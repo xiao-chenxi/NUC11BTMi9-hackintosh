@@ -18,24 +18,26 @@
   
 ## Change log
 
-- 1-3-2024
-  - first submission
-  - renew `OpenCore` `v0.9.7`
-  - support `Sonama` Install and use
-  
-- 3-20-2024
-  - Second submission
-  - renew `OpenCore` `v0.9.9`
-  - Added XHCI-unsupported.kext for USB support for sonoma 14.4：`Kelnel > Add > XHCI-unsupported.kext ：true`
-  - Updated AirportItlwm.kext for WI-FI support for sonoma 14.4
-  - Only Sonama 14.4 or later versions are supported
-  - 
 - 10-2-2024
   - Third submission
   - renew `OpenCore` `v1.0.1`
   - support `Sequoia 15.0` Install and use
   - Supports Sequoia 15.0 WI-FI and Bluetooth，You need to use OpenCore-Legacy-Patcher to patch the network card
   - `Sonama 14.4-14.X` please download the V1.1 version，The final upgrade has been done, sonoma 14.4-14.X will no longer be maintained
+
+- 3-20-2024
+  - Second submission
+  - renew `OpenCore` `v0.9.9`
+  - Added XHCI-unsupported.kext for USB support for sonoma 14.4：`Kelnel > Add > XHCI-unsupported.kext ：true`
+  - Updated AirportItlwm.kext for WI-FI support for sonoma 14.4
+  - Only Sonama 14.4 or later versions are supported
+
+
+
+- 1-3-2024
+  - first submission
+  - renew `OpenCore` `v0.9.7`
+  - support `Sonama` Install and use
   
 ## bios settings
 
